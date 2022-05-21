@@ -8,9 +8,6 @@
   - ReactJS: [https://reactjs.org](https://reactjs.org)
   - Bootstrap: [https://getbootstrap.com](https://getbootstrap.com)
   
-  #### Resulting image looks something like this:
-
-[![2019-10-24-201937-1920x1080-scrot.png](https://i.postimg.cc/XJ29Hbbg/2019-10-24-201937-1920x1080-scrot.png)](https://postimg.cc/34vyNzWy)
 
 ### Initial Set Up
 
@@ -18,6 +15,7 @@
 2. `cd ./frontend`
 3. `npm install`
 4. `npm start` app start with your port number
-5. `cd../backend`
-6. `npm install`
-7. `npm start` 
+5. In another terminal window, run the following command:
+6. `cd../backend`
+7. `npm install`
+8. `npm start` 
