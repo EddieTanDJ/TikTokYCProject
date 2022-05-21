@@ -1,5 +1,4 @@
 import React, { Component} from 'react';
-import Modal from 'react-bootstrap/Modal';
 import axios from 'axios';
 
 import step0 from './images/0.jpg';
