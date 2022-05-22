@@ -1,15 +1,13 @@
- # ReactJS Hangman Game 
- 
- If you'd like to contribute, help me close issues.
+ # ReactJS Hangman Game
   
- ### Dependencies
+ ## Dependencies
 
   - Node: [http://nodejs.org/](http://nodejs.org/)
   - ReactJS: [https://reactjs.org](https://reactjs.org)
   - Bootstrap: [https://getbootstrap.com](https://getbootstrap.com)
   
 
-### Initial Set Up
+## Initial Set Up
 
 1. Clone the repository
 2. `cd ./frontend`
@@ -21,6 +19,6 @@
 8. `npm run dev` 
 
 
-### Credits
+## Credits
 
 Special thanks to [vetrivelcasmy](https://github.com/vetrivelcsamy/reactjs-hangman) for the project base. 
