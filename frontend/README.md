@@ -19,3 +19,8 @@
 6. `cd../backend`
 7. `npm install`
 8. `npm run dev` 
+
+
+### Credits
+
+Special thanks to [vetrivelcasmy](https://github.com/vetrivelcsamy/reactjs-hangman) for the project base. 
