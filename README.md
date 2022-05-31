@@ -1,5 +1,6 @@
  # ReactJS Hangman Game
-  
+ This is a hangman game that was make with ReactJS for the TikTok Youth Camp 2022 group project.
+ 
  ## Dependencies
 
   - Node: [http://nodejs.org/](http://nodejs.org/)
